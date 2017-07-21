@@ -7,3 +7,4 @@ for(int i = 0;i < 10;i++){
 
 Creating a new branch in quick;
 git checkout -b dev
+git checkout -b dev
